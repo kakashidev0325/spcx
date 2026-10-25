@@ -1,5 +1,5 @@
 const CONFIG = {
-  tokenAddress: "9rzRfWAFzjkV7HMm36M1ZSh7JUf4S8pw6UeZdPdLpump",
+  tokenAddress: "5kCnFSTh2KXCxGeMmoV5Lsz7MrnJRfUNmMkBJqHUpump",
   pumpFunUrl: "",
   twitter: "https://x.com/spcxsol_x",
   telegram: "https://t.me/spcxsol_tg",
