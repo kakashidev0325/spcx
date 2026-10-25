@@ -1,8 +1,8 @@
 const CONFIG = {
   tokenAddress: "9rzRfWAFzjkV7HMm36M1ZSh7JUf4S8pw6UeZdPdLpump",
   pumpFunUrl: "",
-  twitter: "https://x.com/trumponsol_x",
-  telegram: "",
+  twitter: "https://x.com/spcxsol_x",
+  telegram: "https://t.me/spcxsol_tg",
 };
 
 function getPumpFunUrl() {
